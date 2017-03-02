@@ -1,0 +1,1 @@
+# docker-nodejs6-maven3-jdk8-alpine
